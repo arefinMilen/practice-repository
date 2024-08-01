@@ -22,3 +22,5 @@ after long time , i come back ,
 bcz i want to be a developer so , i need practice more and more
 today is Thursday ,1st august ,2024
 my main target is what ever i want to do ,i must maintain consistancy
+
+now , i am practicing to change my remote repo in online if i see this edit in my local repo then i need to git pull first
